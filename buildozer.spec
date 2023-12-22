@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = MyAppli
+title = MoileDice
 
 # (str) Package name
 package.name = myapp
